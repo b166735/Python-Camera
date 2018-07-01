@@ -42,4 +42,5 @@ movie3.py:
   
  3,'q'キーを入力して終了
  
- 
+
+ ![Output sample](https://github.com/i13abe/Python-Camera/blob/master/072my-yfn2m.gif) 
